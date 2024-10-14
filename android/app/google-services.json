@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618096157533",
+    "project_id": "visicheck-12e19",
+    "storage_bucket": "visicheck-12e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618096157533:android:f136bf4422c226d63afeb4",
+        "android_client_info": {
+          "package_name": "com.example.visicheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56lGOZpB786q_UFwArVQ7lOHnaBwW6d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
